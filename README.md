@@ -102,4 +102,3 @@ in the browser to see if your implementation works!
 1. Install dependencies:
    ```bash
    npm install
-   ```
