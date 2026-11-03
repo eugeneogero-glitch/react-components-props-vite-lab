@@ -98,6 +98,8 @@ in the browser to see if your implementation works!
 ## My Solution & Setup Instructions
 
 ### How to Run the Project
+
 1. Install dependencies:
    ```bash
    npm install
+   ```
